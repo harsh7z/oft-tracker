@@ -196,4 +196,3 @@ Short videos cause smoothing errors:
 
 ----------------------------------------------------------------
 
-END OF README.txt
